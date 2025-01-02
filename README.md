@@ -15,7 +15,7 @@ In this repo, we have focused on two applications of diffusion synchronization: 
 
 ## Setup
 
-Use the same environment as in [diffusion_distillation 4](https://github.com/aminjafarzade/diffusion_distillation).
+Use the same environment as in [diffusion_distillation](https://github.com/aminjafarzade/diffusion_distillation).
 
 <!-- ## Task 0: Introduction
 
